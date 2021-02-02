@@ -1,4 +1,7 @@
-### Hi there 👋
+## 🖖🏻 Hello world
+
+### 👨🏻‍💻  Sobre mim
+Hi, meu nome é Emanuel, tenho 18 anos, e estou aprendendo a programar focado mais na parte de Front-end.
 
 <!--
 **EmanuelJovito/EmanuelJovito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
