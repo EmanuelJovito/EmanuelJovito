@@ -20,3 +20,5 @@ Hi, meu nome é Emanuel, tenho 18 anos, e estou aprendendo a programar focado ma
 ![](https://komarev.com/ghpvc/?username=EmanuelJovito)
 
 ![EmanuelJovito Github Stats](https://github-readme-stats.vercel.app/api?username=EmanuelJovito&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Snake animation](https://github.com/EmanuelJovito/EmanuelJovito/blob/output/github-contribution-grid-snake.svg)
